@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "魔女",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-12T15:47:34.740540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "スカート",
+      "has_synced": true,
+      "path": "select/01_魔女_スカート.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/02_魔女_花譜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/03_魔女_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "魔女(真)",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/04_魔女(真)_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "小泉今日子",
+      "has_synced": false,
+      "path": "select/05_魔女_小泉今日子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/06_魔女_Luna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "Kyoko Koizumi",
+      "has_synced": false,
+      "path": "select/07_魔女_Kyoko_Koizumi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "魔女",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/08_魔女_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アブラカタブラ片思い 【魔女】remixed by molt beats",
+      "artist": "花澤香菜",
+      "has_synced": false,
+      "path": "select/09_アブラカタブラ片思い_【魔女】remixed_by_molt_beats_花澤香菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔女",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_魔女_花譜.txt"
+    }
+  ]
+}
